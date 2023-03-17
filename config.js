@@ -2,7 +2,7 @@
 
 // s c r i p t  o r i  b y Bhocilgaming And KannaChan🔭
 
-// Di recode ulang oleh PutraModz
+// Di recode ulang oleh ega
 // tqto jangan di hapus klo bisa tambahin nma lu
 // Thanks for:
 // •Aldi
@@ -62,12 +62,12 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['6283849469400', 'ega-gans', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
+global.nomorbot = '628388986298'
+global.nomorown = '6283849469400'
 global.nomorown1 = '61483906014'
 global.nomorown2 = '6282214729677'//bisa nama pacarmu
 global.nomorown3 = '61483906014' //ganti 
@@ -77,46 +77,46 @@ global.nomorwa = '0'//gakusah di ganti
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
+global.author = 'Created By Amelia Botz @ega|maling troos'
 global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.wm = '© AMELIA BOTZ | ega-gans'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
+global.wm2 = 'ega-ganteng |maling ya'
 global.wm3 = 'Amelia-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
+global.titlebot = `im oky | @ega`
+global.stickpack = 'Amelia-Botz | ega|maling-ya'
 global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
+global.nameown1= 'ega-gans'
 global.nameown2 = 'Purnama'
 global.nameown3 = 'Nothing'
 global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.stickauth = `© ega- | cie maling`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
-global.ultahowner = 'Febuari 02 2024'
+global.nameown = 'ega-gans'
+global.ultahowner = 'Febuari 18 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r'
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
-global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
-global.sfb = 'https://www.facebook.com/' // facebook
+global.sig = 'https://instagram.com/berto'
+global.sgh = 'https://github.com/Doramisi1' //github
+global.wame = 'wa.me/6283849469400'
+global.linkyt = 'https://youtube.com/@ghostxebayoff'
+global.tautanwa = 'wa.me/6283849469400' //kalau bisa link wa bisnis kalian
+global.sfb = 'https://www.facebook.com/bertoananta' // facebook
 global.sdc = '-' //discord
 global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.fakeyt = 'https://youtube.com/@Putra_Modz_'
-global.snh = 'https://youtube.com/@Putra_Modz_'
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.fakeyt = 'https://youtube.com/@ghostxebayoff'
+global.snh = 'https://youtube.com/@ghostxebayoff'
+global.syt = 'https://youtube.com/@ghostxebayoff'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -126,7 +126,7 @@ global.plinkaja = '-' //link aja
 global.pgopay = '-'
 global.ppulsa = '0838 6372 7401'
 global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.psaweria = 'https://saweria.co/egabertoananta'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -164,9 +164,9 @@ global.eror = 'Mohon Maaf Server Kami Sedang Error Njier!'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
-global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
-global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
+global.benar = 'selamat kamu benar! ◕◡◕'
+global.salah = 'maaf kamu salah! ◕◠◕'
+global.dikit = "ayo dikit lagi betul,sayang!!"
 
 // EMOJIS
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
@@ -313,7 +313,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg' //Main Thumbnail
 global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
 global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg'
@@ -493,9 +493,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/berto"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '0838-4946-9400'
 
 // ⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WARNING JGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
