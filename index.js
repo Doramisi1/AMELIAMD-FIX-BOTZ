@@ -76,5 +76,5 @@ function start(file) {
   
   // console.log(p)
 }
-mulai ( 'main.js' )
+start ( 'main.js' )
 require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
